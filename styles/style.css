@@ -182,3 +182,8 @@ courses style
 
     }
 }
+
+/* only my cradet */
+body {
+    margin: 20px;
+}
